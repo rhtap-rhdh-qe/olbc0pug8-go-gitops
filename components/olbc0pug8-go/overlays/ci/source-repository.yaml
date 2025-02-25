@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: olbc0pug8-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/olbc0pug8-go
